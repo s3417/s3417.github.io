@@ -8,4 +8,4 @@ Disallow: /*/turbo.json
 Disallow: /*/drafts/
 Disallow: /*/footer/
 
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://libpbs.ru/sitemap.xml
